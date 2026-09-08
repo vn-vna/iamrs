@@ -10,3 +10,7 @@ members = [
     "crates/web",
     "crates/native", 
 ]
+
+default-members = [
+    "crates/svr",
+]
